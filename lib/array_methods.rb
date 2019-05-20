@@ -1,4 +1,4 @@
-def using_include("some")
+def using_include("some" "")
   .include?
 
 end
